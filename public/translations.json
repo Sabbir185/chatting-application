@@ -1,0 +1,31 @@
+[
+  {
+    "label": "Arabic",
+    "key": "ar",
+    "direction": "rtl",
+    "translation": {
+      "dashboard": "لوحة القيادة",
+      "shops": "محلات",
+      "categories": "فئات",
+      "products": "منتجات",
+      "roles": "الأدوار",
+      "settings": "الإعدادات",
+      "users": "المستخدمون",
+      "add shop": "أضف متجر",
+      "edit shop": "تحرير المتجر"
+    }
+  },
+  {
+    "label": "English",
+    "key": "en",
+    "direction": "ltr",
+    "translation": {
+      "dashboard": "efa",
+      "shops": "gafdg",
+      "categories": "ga",
+      "products": "ggggggggg",
+      "roles": "fasdf",
+      "entries":" fasd "
+    }
+  }
+]
