@@ -84,7 +84,7 @@ const Login = () => {
             </Form.Item>
  
             <Button width={'100%'} colorScheme={'green'} type='submit' isLoading={loading} >Login</Button>
-            <Button width={'100%'} colorScheme={'red'} type='submit' mt='3' onClick={() => {
+            <Button width={'100%'} colorScheme={'red'} mt='3' onClick={() => {
                 console.log("hi")
                 form.resetFields();
                 form.setFieldsValue({ email: "user@chat.com", password: "123456" })
